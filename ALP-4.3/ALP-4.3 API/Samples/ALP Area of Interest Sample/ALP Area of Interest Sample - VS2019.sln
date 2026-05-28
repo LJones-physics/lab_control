@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALP Area of Interest Sample", "ALP Area of Interest Sample - VS2019.vcxproj", "{3802DD1F-BC53-4CDD-B7C3-E111F24E10B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3802DD1F-BC53-4CDD-B7C3-E111F24E10B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3802DD1F-BC53-4CDD-B7C3-E111F24E10B3}.Debug|Win32.Build.0 = Debug|Win32
+		{3802DD1F-BC53-4CDD-B7C3-E111F24E10B3}.Release|Win32.ActiveCfg = Release|Win32
+		{3802DD1F-BC53-4CDD-B7C3-E111F24E10B3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

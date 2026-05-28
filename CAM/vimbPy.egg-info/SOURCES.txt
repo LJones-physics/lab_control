@@ -1,0 +1,8 @@
+setup.py
+vimbPy/__init__.py
+vimbPy/controller.py
+vimbPy/logger.py
+vimbPy.egg-info/PKG-INFO
+vimbPy.egg-info/SOURCES.txt
+vimbPy.egg-info/dependency_links.txt
+vimbPy.egg-info/top_level.txt

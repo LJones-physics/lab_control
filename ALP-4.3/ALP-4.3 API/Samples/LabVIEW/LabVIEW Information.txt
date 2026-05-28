@@ -1,0 +1,14 @@
+ALP Sample for National Instruments(tm) LabVIEW
+
+ViALUX does not officially maintain an ALP API programming sample for LabVIEW.
+However several customers successfully use ALP API in LabVIEW.
+
+The Import Shared Library Wizard can be used to streamline the process of
+configuring Call Library Function Nodes.
+Select Tools -> Import -> Shared Library.
+
+For details please refer to the following links
+https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z0000019Ls1SAE&l=en-GB
+http://zone.ni.com/reference/en-XX/help/371361F-01/lvexcodeconcepts/importing_shared_library/
+http://zone.ni.com/reference/en-XX/help/371361P-01/lvexcodeconcepts/configuring_the_clf_node/
+

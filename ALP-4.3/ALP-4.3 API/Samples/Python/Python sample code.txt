@@ -1,0 +1,7 @@
+ALP Sample for Python(tm)
+
+The Python sample code is provided by one of the ViALUX customers and can be downloaded with the following link:
+https://github.com/wavefronthsaping/ALP4lib 
+The provided Python sample code is tested with ALP-4.3 Controller Suite and 0.9 WQXGA DMD Chip (V-9001 Module). 
+You might need to modify the corresponding DLL file and DMD Chip type, if you use other DLP Module or other DMD Chip type.
+

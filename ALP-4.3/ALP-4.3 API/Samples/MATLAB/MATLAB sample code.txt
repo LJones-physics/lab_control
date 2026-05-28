@@ -1,0 +1,13 @@
+ALP Sample for MathWorks(R) MATLAB(R)
+
+The MATLAB sample code is provided by one of the ViALUX customers and can be downloaded with the following link:
+http://www.mathworks.com/matlabcentral/fileexchange/46673  
+(Create profile, login and click on "Get from GitHub" for download)
+
+The provided MATLAB sample code is prepared for ALP-4.2 Controller Suite and 0.7 XGA DMD Chip (V-7000 Module). 
+You might need to modify the corresponding DLL file and DMD Chip type, if you use other DLP Module or other DMD Chip type.
+
+Typically, the following links are also helpful for MATLAB customers:
+http://www.mathworks.de/help/techdoc/ref/loadlibrary.html  
+http://www.mathworks.de/help/techdoc/ref/calllib.html
+
