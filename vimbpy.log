@@ -1,0 +1,76 @@
+2026-05-29 11:11:35,652 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:11:35,656 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:11:45,984 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:11:45,987 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:13:40,797 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:13:40,808 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:14:38,752 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:14:38,753 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:16:24,720 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:16:24,724 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:16:39,784 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:16:39,786 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:18:43,721 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:18:43,728 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:20:48,856 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:20:48,856 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:21:11,016 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:21:11,021 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:26:33,947 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:26:33,949 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:27:28,988 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:27:28,990 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:28:00,682 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:28:00,684 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:28:36,419 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:28:36,422 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:30:14,479 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:30:14,483 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:30:43,038 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:30:43,041 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:31:17,563 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:31:17,567 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:32:02,371 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:32:02,373 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:32:38,345 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:32:38,349 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:33:17,720 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:33:17,722 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:33:54,817 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:33:54,819 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:34:58,457 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:34:58,459 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:35:12,044 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:35:12,046 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:35:32,243 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:35:32,247 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:36:06,760 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-05-29 11:36:06,764 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-05-29 11:37:28,636 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:37:28,640 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:37:28,760 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-05-29 11:39:11,604 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:39:11,609 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:39:12,126 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-05-29 11:39:30,928 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:39:30,933 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:39:31,385 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-05-29 11:39:58,341 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:39:58,343 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-05-29 11:46:48,787 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-05-29 11:46:48,797 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-01 14:04:15,860 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-01 14:04:15,864 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-01 14:04:44,474 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-01 14:06:46,877 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-01 14:06:46,882 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-01 14:15:06,652 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-01 14:15:56,701 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-01 14:15:56,705 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-01 14:16:01,979 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-01 14:16:12,060 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-01 14:16:12,062 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-01 14:17:32,643 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-06-01 14:17:32,643 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-06-01 14:17:54,449 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-01 14:17:54,449 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.

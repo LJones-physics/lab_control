@@ -26,61 +26,54 @@ class OpticalSetup:
 
     def _cams_on(self):
         self.cams: Dict[str, Dict[str, Union[str, Event, OutstreamManager, Thread]]] = {
-            'single': {'cam_id': 'DEV_000F314E71C8', 'stop': Event(), 'ready': Event(), 'out_manager': OutstreamManager()},
-            'double': {'cam_id': 'DEV_000F314DE426', 'stop': Event(), 'ready': Event(), 'out_manager': OutstreamManager()},
-            }
+            'single': {'cam_id': 'DEV_000F314CD29C', 'stop': Event(), 'ready': Event(), 'out_manager': OutstreamManager()}}
         
         for cam_name, cam in self.cams.items():
             cam['stop'].clear()
             cam['ready'].clear()
             cam['out_manager'].create(f'cam_out', maxsize=1, start_enabled=True)
 
-            self.cams_thread = Thread(target=self.__cam_task, daemon=True)
+            cam['thread'] = Thread(target=self.__cam_task, daemon=True)
         
-        self.cams_thread.start()
+        self.cams['single']['thread'].start()
 
         self.q_single, _ = self.cams['single']['out_manager'].get('cam_out')
-        self.q_double, _ = self.cams['double']['out_manager'].get('cam_out')
+
         
         while not self.cams['single']['ready'].is_set():
             self.cams['single']['ready'].wait(.5)
-        while not self.cams['double']['ready'].is_set():
-            self.cams['double']['ready'].wait(.5)
+   
 
 
     def __cam_task(self):
-        with VimbaXController(cam_id=self.cams["single"]["cam_id"], log_dir="./", log_level="INFO") as ctrl_single,\
-             VimbaXController(cam_id=self.cams["double"]["cam_id"], log_dir="./", log_level="INFO") as ctrl_double:
+        with VimbaXController(
+            cam_id=self.cams["single"]["cam_id"],
+            log_dir="./",
+            log_level="INFO"
+        ) as ctrl_single:
 
-            ctrl_controllers = {
-                "single": ctrl_single,
-                "double": ctrl_double,
-            }
+            def record_wrapper():
 
-            threads = []
+                with ctrl_single.cam as cam1:
 
-            for cam_name, cam_info in self.cams.items():
-                ctrl = ctrl_controllers[cam_name]
+                    self.cam_single = cam1
 
-                def record_wrapper(ctrl_ref, cam_info_ref):
-                    with ctrl_ref.cam as cam1:
-                        cam1.TriggerSource.set('Line1') # Change (probably)
-                        cam1.TriggerMode.set('On')
-                    
-                    ctrl_ref.record(
-                        stop_event=cam_info_ref['stop'],
-                        ready_event=cam_info_ref['ready'],
-                        outstream_manager=cam_info_ref['out_manager'],
+                    cam1.TriggerSelector.set('FrameStart')
+                    cam1.TriggerSource.set('Software')
+                    cam1.TriggerMode.set('On')
+
+                    ctrl_single.record(
+                        stop_event=self.cams['single']['stop'],
+                        ready_event=self.cams['single']['ready'],
+                        outstream_manager=self.cams['single']['out_manager'],
                     )
 
-                t = Thread(target=record_wrapper, args=(ctrl, cam_info), daemon=True)
-                t.start()
-                cam_info["thread"] = t
-                threads.append(t)
+            t = Thread(target=record_wrapper, daemon=True)
+            t.start()
+            t.join()
 
-            for t in threads:
-                t.join()
-
+    def trigger_camera(self):
+        self.cam_single.TriggerSoftware.run()
     
     def _cams_off(self):
         buffer = []
@@ -96,7 +89,6 @@ class OpticalSetup:
         for name, cam in self.cams.items():
             cam['stop'].set()
             cam['thread'].join(timeout=2.0)
-        self.cams_thread.join(timeout=2.0)
 
     
     def _adjust_exposure(self, linear: Union[float, str, None] = None, nonlinear: Union[float, str, None] = None):
