@@ -166,3 +166,51 @@
 2026-06-03 13:10:51,594 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 3
 2026-06-03 13:10:51,596 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 4
 2026-06-03 13:10:51,596 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 5
+2026-06-04 10:56:55,695 - ALP41 - SN16017 - INFO - Device connected. SN: 16017, ID: 413
+2026-06-04 10:56:55,696 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 1
+2026-06-04 10:56:55,697 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 2
+2026-06-04 10:56:55,699 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 3
+2026-06-04 10:56:55,699 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 4
+2026-06-04 10:56:55,699 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 5
+2026-06-04 12:06:23,794 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 3
+2026-06-04 12:06:23,804 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 4
+2026-06-04 12:06:23,805 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 5
+2026-06-04 12:06:23,806 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 1
+2026-06-04 12:06:23,807 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 2
+2026-06-04 12:06:23,829 - ALP41 - SN16017 - INFO - Device disconnected. SN: 16017
+2026-06-04 14:13:54,781 - ALP41 - SN16017 - INFO - Device connected. SN: 16017, ID: 314
+2026-06-04 14:13:54,782 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 1
+2026-06-04 14:13:54,784 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 2
+2026-06-04 14:13:54,785 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 3
+2026-06-04 14:13:54,786 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 4
+2026-06-04 14:13:54,787 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 5
+2026-06-05 10:46:04,365 - ALP41 - SN16017 - INFO - Device connected. SN: 16017, ID: 366
+2026-06-05 10:46:04,367 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 1
+2026-06-05 10:46:04,367 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 2
+2026-06-05 10:46:04,367 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 3
+2026-06-05 10:46:04,367 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 4
+2026-06-05 10:46:04,367 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 5
+2026-06-05 14:17:41,569 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 3
+2026-06-05 14:17:41,569 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 4
+2026-06-05 14:17:41,569 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 5
+2026-06-05 14:17:41,569 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 1
+2026-06-05 14:17:41,569 - ALP41 - SN16017 - INFO - Memory freed successfully. SeqID: 2
+2026-06-05 14:17:41,598 - ALP41 - SN16017 - INFO - Device disconnected. SN: 16017
+2026-06-08 09:41:16,765 - ALP41 - SN16017 - INFO - Device connected. SN: 16017, ID: 219
+2026-06-08 09:41:16,766 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 1
+2026-06-08 09:41:16,767 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 2
+2026-06-08 09:41:16,768 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 3
+2026-06-08 09:41:16,769 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 4
+2026-06-08 09:41:16,770 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 5
+2026-06-08 10:54:02,017 - ALP41 - SN16017 - INFO - Device connected. SN: 16017, ID: 231
+2026-06-08 10:54:02,019 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 1
+2026-06-08 10:54:02,020 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 2
+2026-06-08 10:54:02,021 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 3
+2026-06-08 10:54:02,023 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 4
+2026-06-08 10:54:02,024 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 5
+2026-06-08 13:42:34,682 - ALP41 - SN16017 - INFO - Device connected. SN: 16017, ID: 234
+2026-06-08 13:42:34,682 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 1
+2026-06-08 13:42:34,682 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 2
+2026-06-08 13:42:34,682 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 3
+2026-06-08 13:42:34,691 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 4
+2026-06-08 13:42:34,691 - ALP41 - SN16017 - INFO - Memory allocated successfully. SeqID: 5
