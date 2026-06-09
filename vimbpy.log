@@ -774,3 +774,31 @@
 2026-06-08 14:31:03,002 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
 2026-06-08 14:31:03,005 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
 2026-06-08 14:32:25,415 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-09 10:13:50,064 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 10:13:50,068 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 10:15:49,744 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-09 10:15:55,111 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 10:15:55,115 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 10:22:51,568 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-09 10:23:06,156 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 10:23:06,158 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 10:35:22,320 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Failed to adjust setup settings: Invalid access while calling 'run()' of Feature 'GVSPAdjustPacketSize'. Read access: allowed. Write access: not allowed. 
+2026-06-09 10:35:22,320 - vimbPy_DEV_000F314CD29C - ERROR - Exception occurred: Cam DEV_000F314CD29C - Error in start_recording: exceptions must derive from BaseException
+2026-06-09 10:35:34,190 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 10:35:34,195 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 10:36:53,654 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-09 10:43:35,011 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 10:43:35,016 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 10:45:45,832 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-09 10:45:51,161 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 10:45:51,167 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 10:47:10,726 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-09 10:56:31,294 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 10:56:31,299 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 10:57:50,467 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-09 10:59:23,273 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 10:59:23,277 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 11:00:55,410 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
+2026-06-09 11:01:00,405 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Packet size adjusted successfully.
+2026-06-09 11:01:00,410 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record started.
+2026-06-09 11:02:13,480 - vimbPy_DEV_000F314CD29C - INFO - Cam DEV_000F314CD29C - Record stopped.
